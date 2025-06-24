@@ -1,0 +1,4 @@
+site_name: 'CVAH Hunt Guide'
+site_url: https://namespace.pages.joust.lab
+site_dir: public
+theme: readthedocs
